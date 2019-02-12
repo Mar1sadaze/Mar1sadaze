@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>One</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2018-03-16T00:00:00+01:00</updated><entry><title>告别</title><link href="/gao-bie.html" rel="alternate"></link><published>2018-03-16T00:00:00+01:00</published><updated>2018-03-16T00:00:00+01:00</updated><author><name>洛天依</name></author><id>tag:None,2018-03-16:/gao-bie.html</id><summary type="html">&lt;h3&gt;送给曾经&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;开始新的生活了，&lt;/p&gt;
+&lt;p&gt;再见&lt;/p&gt;</summary><content type="html">&lt;h3&gt;送给曾经&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;开始新的生活了，&lt;/p&gt;
+&lt;p&gt;再见&lt;/p&gt;</content><category term="心情"></category></entry><entry><title>Hello world！</title><link href="/hello-world.html" rel="alternate"></link><published>2018-02-20T00:00:00+01:00</published><updated>2018-02-20T00:00:00+01:00</updated><author><name>洛天依</name></author><id>tag:None,2018-02-20:/hello-world.html</id><summary type="html">&lt;h2&gt;开始使用pelican作为个人博客&lt;/h2&gt;
+&lt;p&gt;作为一个喜欢用python编程的技术宅，pelican的简洁和geek的风格赢得了我的喜爱。  &lt;br&gt;
+目前还没想好本博客到底用来记录什么。&lt;br&gt;
+可能只是一个对自己搜集的信息进行汇总的blog，介于以前blog的短命这次的blog存活时间到底有多长也是一个谜。&lt;br&gt;
+总之，我的愿望：有一个安静的写文的环境。 &lt;br&gt;
+不需要太多聒噪的声音，不需要评论系统，不需要别人认可。     &lt;/p&gt;</summary><content type="html">&lt;h2&gt;开始使用pelican作为个人博客&lt;/h2&gt;
+&lt;p&gt;作为一个喜欢用python编程的技术宅，pelican的简洁和geek的风格赢得了我的喜爱。  &lt;br&gt;
+目前还没想好本博客到底用来记录什么。&lt;br&gt;
+可能只是一个对自己搜集的信息进行汇总的blog，介于以前blog的短命这次的blog存活时间到底有多长也是一个谜。&lt;br&gt;
+总之，我的愿望：有一个安静的写文的环境。 &lt;br&gt;
+不需要太多聒噪的声音，不需要评论系统，不需要别人认可。     &lt;/p&gt;</content><category term="技术心情"></category></entry></feed>
